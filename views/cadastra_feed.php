@@ -8,7 +8,7 @@ h2 {
     margin-bottom: 20px;
 }
 
-/* Estilo dos campos de entrada */
+/* estilo dos campos de entrada */
 input[type="text"],
 input[type="email"],
 select {
